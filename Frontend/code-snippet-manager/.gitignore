@@ -1,0 +1,18 @@
+# Ignore system files
+AppData/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+
+# Ignore user-specific files
+*.dat
+*.ini
+*.LOG1
+*.LOG2
+
